@@ -35,15 +35,17 @@ A front-end clone of the YouTube homepage built using **HTML** and **CSS**. This
 ---
 
 ## 📁 Folder Structure
-
-youtube-clone/
-├── index.html
-├── styles/
+```
+youtube-clone/ 
+├── index.html → Main HTML file
+├── styles/ → All CSS files
 │ ├── general.css
 │ ├── header.css
 │ ├── sidebar.css
 │ └── video.css
-├── thumbnails/
-├── icons/
-├── channel-pictures/
-└── screenshot.png
+├── thumbnails/ → Video thumbnail images
+├── icons/ → Icon assets
+├── channel-pictures/ → Channel profile pictures
+└── screenshot.png → Project screenshot for README
+
+```
